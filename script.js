@@ -7,3 +7,5 @@ function handleSubmit(e){
 let p = document.createElement("p")
 p.textContent= "I was created through JavaScript"
 document.querySelector("body").appendChild(p)
+let s = "Hello"
+console.log(s)
